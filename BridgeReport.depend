@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1582268054 source:c:\project 1(c)\hackthon2k20(b.c.e.t)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1582268054 source:c:\hackthon2k20(b.c.e.t)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1582268054 source:d:\hackthon2k20(b.c.e.t)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
